@@ -59,7 +59,4 @@ terraform destroy
 - Certifique-se de que a região AWS (`us-east-1`) esteja disponível para o seu perfil.
 - O bucket S3 será acessível publicamente para exibir o site estático.
 
-## 📝 Licença
-Este projeto está sob a licença MIT.
-
 
